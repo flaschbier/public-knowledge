@@ -1,2 +1,2 @@
 # public-knowledge
-A Repository Just For "Issues"
+A Repository For $Things
