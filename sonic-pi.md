@@ -1,3 +1,7 @@
+# Install
+
+## Mac
+
 ```sh
 $ brew cask install sonic-pi
 ==> Downloading https://sonic-pi.net/files/releases/v3.2.0/sonic-pi-for-mac-v3.2.0.zip
@@ -8,7 +12,7 @@ $ brew cask install sonic-pi
 🍺  sonic-pi was successfully installed!
 ```
 
-# Installation
+# About: Install
 - Homepage: [Sonic Pi - The Live Coding Music Synth for Everyone](http://sonic-pi.net/)
 - [Artikel dazu](https://sonicpi.weebly.com/uploads/4/4/1/2/44127859/live_coding_in_der_bildung.pdf)
 - 🥁 [Sonic Pi Essentials](https://magpi.raspberrypi.org/books/essentials-sonic-pi-v1) – Buch von Sam Aaron
