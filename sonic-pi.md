@@ -6,6 +6,7 @@ $ brew cask install sonic-pi
 ==> Installing Cask sonic-pi
 ==> Moving App 'Sonic Pi.app' to '/Applications/Sonic Pi.app'.
 🍺  sonic-pi was successfully installed!
+```
 
 # Installation
 - Homepage: [Sonic Pi - The Live Coding Music Synth for Everyone](http://sonic-pi.net/)
