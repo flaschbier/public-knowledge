@@ -17,6 +17,50 @@ Quellen
 - [A Python script to read RSS feeds (and much more) | Nov. 2019](https://alvinalexander.com/python/python-script-read-rss-feeds-database/)
 - [How to build a simple RSS reader in Python 3.7? | StackOverflow, Mai 2019](https://stackoverflow.com/questions/55936200/how-to-build-a-simple-rss-reader-in-python-3-7) – It seems feedparser is not compatible with python3.7 (it gives me KeyError, "object doesn't have key 'category')
 
+### Install
+
+```
+$ conda install feedparser
+Solving environment: done
+
+
+==> WARNING: A newer version of conda exists. <==
+  current version: 4.5.12
+  latest version: 4.8.3
+
+Please update conda by running
+
+    $ conda update -n base -c defaults conda
+
+
+
+## Package Plan ##
+
+  environment location: /Users/****/anaconda3/envs/devops3
+
+  added / updated specs: 
+    - feedparser
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    feedparser-5.2.1           |           py37_1          80 KB
+
+The following NEW packages will be INSTALLED:
+
+    feedparser: 5.2.1-py37_1
+
+Proceed ([y]/n)? 
+
+
+Downloading and Extracting Packages
+feedparser-5.2.1     | 80 KB     | ########################################################################################################################################################################################################################################### | 100% 
+Preparing transaction: done
+Verifying transaction: done
+Executing transaction: done
+```
 
 ## `BeautifulSoup`
 
