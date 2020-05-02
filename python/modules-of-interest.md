@@ -9,8 +9,7 @@
 Side findings:
 - [Complete Guide to TensorFlow for Deep Learning with Python | Udemy – <strike>für 21€ statt 195€</strike>](https://www.udemy.com/course/complete-guide-to-tensorflow-for-deep-learning-with-python/?LSNPUBID=QZaBth%2FyPOQ&ranEAID=QZaBth%2FyPOQ&ranMID=39197&ranSiteID=QZaBth_yPOQ-_Bb67e_rtlMMXSzsaASf_A)
 
-### requests-html
-cf. https://github.com/psf/requests-html
+### [requests-html](https://github.com/psf/requests-html)
 
 Verwendet [pyppeteer](https://anaconda.org/conda-forge/pyppeteer), das aber seit Mai 19 unattended ist.
 Versuche, den Autor zu erreichen sind offenbar fehlgeschlagen.
