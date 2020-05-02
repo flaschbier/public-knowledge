@@ -16,3 +16,6 @@ Verwendet [pyppeteer](https://anaconda.org/conda-forge/pyppeteer), das aber seit
 Versuche, den Autor zu erreichen sind offenbar fehlgeschlagen.
 Es gibt einen seit 10 Feb 2020 aktiven fork [pyppeteer2](https://github.com/pyppeteer/pyppeteer2/issues/1), letzter Commit Ende 2020 war "2 days ago".
 
+## [No really, pathlib is great | Trey Hunter](https://treyhunner.com/2019/01/no-really-pathlib-is-great/)
+
+...
