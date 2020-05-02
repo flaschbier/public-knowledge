@@ -1,3 +1,25 @@
 # ZDF heute via RSS
 
 cf. http://www.heute.de/zdfheute/rss
+
+Wie man in Python damit umgeht, ist wohl vor allem deswegen komplex, 
+weil die meisten Suchtreffer recihlich angestaubt sind.
+Vielleicht mal hiermit starten:
+
+## `feedparser`
+
+- https://pythonhosted.org/feedparser/ – This documentation claims to describe the behavior of feedparser 5.2.0. It does not claim to describe the behavior of any other version.
+- https://pypi.org/project/feedparser/ – feedparser 5.2.1
+- https://github.com/kurtmckee/feedparser – letzter Commit 2 Monate alt; ein Hauptcontributor; wenige, ältere Beiträge anderer; viele offene Issues, die teils Jahre alt sind; used bei 14,7k repos; 1k stars; sieht nach einem ziemlich abgehangenen aber nur leidlich gepflegten Modul aus
+
+Quellen
+- [How to build a RSS Parser in Python? | Medium, Jan 2018](https://medium.com/@DigitallyMani/how-to-build-a-rss-parser-in-python-2879135dc2d6)
+- [A Python script to read RSS feeds (and much more) | Nov. 2019](https://alvinalexander.com/python/python-script-read-rss-feeds-database/)
+- [How to build a simple RSS reader in Python 3.7? | StackOverflow, Mai 2019](https://stackoverflow.com/questions/55936200/how-to-build-a-simple-rss-reader-in-python-3-7) – It seems feedparser is not compatible with python3.7 (it gives me KeyError, "object doesn't have key 'category')
+
+
+## `BeautifulSoup`
+
+- https://towardsdatascience.com/rss-feed-parser-in-python-553b1857055c – fürchterlicher Artikel, aber:
+
+> The restriction of RSS parser libraries, basically expected me to write my own parser. Since it’s ultimately xml-based content, I decided to use the ever-reliable BeautifulSoup Library
