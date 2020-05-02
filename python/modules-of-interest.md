@@ -1,6 +1,8 @@
 # Python Modules Of Interest
 
 
+## The Hitchhiker’s Guide to Python!
+- Testing: https://docs.python-guide.org/writing/tests/
 
 ## 34 Amazing Python Open Source Libraries for the Past Year (v.2019)
 cf. https://medium.mybridge.co/34-amazing-python-open-source-libraries-for-the-past-year-v-2019-93d6ee11aceb
