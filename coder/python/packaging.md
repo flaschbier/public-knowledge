@@ -87,7 +87,7 @@ python setup.py develop --uninstall
 
 - importieren das Paket entspannt mit `import <package-name>`
 
-## <package-name>/__init__.py
+## package/__init__.py
 
 - da könnte direkt der Code rein
 - braucht für andere Module `from .<module> import <eine-funktion>`
