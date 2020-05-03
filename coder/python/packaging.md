@@ -20,7 +20,7 @@ into Python (by running or by importing).
 
 Ergebnisstruktur:
 ```
-git-root-verz             Repo Name = Package Name
+git-root-verz             Repo Name = Package Name, kein __init__.py hier!
   +- .gitignore
   +- setup.py
   +- README.md
