@@ -71,7 +71,8 @@ Aber Python ist etwas ... sperrig, wenn es darum geht, leichtgewichtig was aus e
 
 Also ein Package mit Tooling und ein paar Top-Level Skripte bauen:
 - https://stackoverflow.com/questions/14132789/relative-imports-for-the-billionth-time/14132912#14132912
-- https://python-packaging-tutorial.readthedocs.io/en/latest/setup_py.html
+- https://python-packaging-tutorial.readthedocs.io/en/latest/setup_py.html (hab ich nicht hinbekommen, weil die Zielstruktur nicht gezeigt wird)
+- https://python-packaging.readthedocs.io/en/latest/minimal.html# (viel besser)
 
 
 ## `BeautifulSoup`
