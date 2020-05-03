@@ -54,13 +54,25 @@ The following NEW packages will be INSTALLED:
 
 Proceed ([y]/n)? 
 
-
 Downloading and Extracting Packages
 feedparser-5.2.1     | 80 KB     | ########################################################################################################################################################################################################################################### | 100% 
 Preparing transaction: done
 Verifying transaction: done
 Executing transaction: done
 ```
+
+### Usage
+
+`feedparser` funktioniert super für den ZDF Feed. 
+Und die ARD bietet für die tagesschau auch einen an.
+Damit entsteht natürlich sofort die Notwendigkeit, die zahlreichen reusebaren Teile aufzulagern.
+Aber Python ist etwas ... sperrig, wenn es darum geht, leichtgewichtig was aus einem Unterverzeichnis zu reusen:
+`attempted relative import beyond top-level package`
+
+Also ein Package mit Tooling und ein paar Top-Level Skripte bauen:
+- https://stackoverflow.com/questions/14132789/relative-imports-for-the-billionth-time/14132912#14132912
+- https://python-packaging-tutorial.readthedocs.io/en/latest/setup_py.html
+
 
 ## `BeautifulSoup`
 
