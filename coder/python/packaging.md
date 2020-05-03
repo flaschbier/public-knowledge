@@ -91,7 +91,7 @@ python setup.py develop --uninstall
 
 - da könnte direkt der Code rein
 - braucht für andere Module `from .<module> import <eine-funktion>`
-  - ohne diese Zeile ist luechenbresse.tool unbekannt :(
-  - mit dieser Zeile exportiert luechenbresse tool.*, auch dort importierte Module wie z.B. json :(
+  - ohne diese Zeile ist `<package-name>.<module>.<funktiom>` unbekannt :(
+  - mit dieser Zeile exportiert das Paket `<module>.*`, auch dort importierte Module wie z.B. json :(
   - `import .<module>` hat nicht geklappt
 
