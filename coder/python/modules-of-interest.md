@@ -18,3 +18,7 @@ Es gibt einen seit 10 Feb 2020 aktiven fork [pyppeteer2](https://github.com/pypp
 ## [No really, pathlib is great | Trey Hunter](https://treyhunner.com/2019/01/no-really-pathlib-is-great/)
 
 ...
+
+## [Cookiecutter](https://cookiecutter.readthedocs.io/en/latest/README.html)
+
+Generiert z.B. Python Packages nach Vorlagen.
