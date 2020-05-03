@@ -12,7 +12,8 @@ into Python (by running or by importing).
 
 ## versch. Quellen
 
-- https://python-packaging-tutorial.readthedocs.io/en/latest/setup_py.html (hab ich nicht hinbekommen, weil die Zielstruktur nicht gezeigt wird)
+- https://python-packaging-tutorial.readthedocs.io/en/latest/setup_py.html – hab ich nicht hinbekommen, weil die Zielstruktur nicht gezeigt wird
+- https://timothybramlett.com/How_to_create_a_Python_Package_with___init__py.html – vlt. brauchbar für eine einfache Variante (Module in Unterverzeichnis)
 
 ## Startpunkt
 
