@@ -19,6 +19,8 @@ Quellen
 
 ### Install
 
+<details><summary>`conda install feedparser` (click to expand)</summary>
+  
 ```
 $ conda install feedparser
 Solving environment: done
@@ -60,6 +62,8 @@ Preparing transaction: done
 Verifying transaction: done
 Executing transaction: done
 ```
+
+</details>
 
 ### Usage
 
