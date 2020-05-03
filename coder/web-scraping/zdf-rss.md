@@ -19,7 +19,7 @@ Quellen
 
 ### Install
 
-<details><summary>`conda install feedparser` (click to expand)</summary>
+<details><summary>conda install feedparser (click to expand)</summary>
   
 ```
 $ conda install feedparser
