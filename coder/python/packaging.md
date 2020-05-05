@@ -75,6 +75,9 @@ python setup.py test
 python setup.py develop --uninstall
 ```
 
+> This will remove it from easy-install.pth and delete the .egg-link. The only thing it doesn't do is delete scripts (yet).
+– [stackoverflow](https://stackoverflow.com/questions/3606457/removing-python-module-installed-in-develop-mode)
+
 ## Skripten
 
 - müssen nicht ausführbar i.S.v. `chmod u+x` sein 
