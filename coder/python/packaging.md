@@ -9,6 +9,7 @@
 nd importing that file from somewhere else. Just knowing what directory a file is in does not 
 determine what package Python thinks it is in. That depends, additionally, on how you load the file 
 into Python (by running or by importing).
+<br> – [Quelle: stackoverflow](https://stackoverflow.com/questions/14132789/relative-imports-for-the-billionth-time/14132912#14132912)
 
 ## versch. Quellen
 
