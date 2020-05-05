@@ -13,6 +13,7 @@ into Python (by running or by importing).
 
 ## versch. Quellen
 
+- https://setuptools.readthedocs.io/en/latest/setuptools.html – the docs.
 - https://python-packaging-tutorial.readthedocs.io/en/latest/setup_py.html – hab ich nicht hinbekommen, weil die Zielstruktur nicht gezeigt wird
 - https://timothybramlett.com/How_to_create_a_Python_Package_with___init__py.html – vlt. brauchbar für eine einfache Variante (Module in Unterverzeichnis)
 - https://www.reddit.com/r/Python/comments/1bbbwk/whats_your_opinion_on_what_to_include_in_init_py/ – via [SO](https://stackoverflow.com/questions/448271/what-is-init-py-for), noch nicht im Detail angesehen
