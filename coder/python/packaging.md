@@ -106,3 +106,11 @@ python setup.py develop --uninstall
 
 cf. https://packaging.python.org/guides/using-manifest-in/
 
+Wie liest man das?
+- https://stackoverflow.com/questions/6028000/how-to-read-a-static-file-from-inside-a-python-package
+
+```python
+rsrc = Path(__file__).parent / "templates" / "wtf.json"
+``` 
+
+> The assumption that you have files and subdirectories available is not correct. This approach doesn't work if executing code which is packed in a zip or a wheel, and it may be entirely out of the user's control whether or not your package gets extracted to a filesystem at all.
