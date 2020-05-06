@@ -102,3 +102,7 @@ python setup.py develop --uninstall
   - mit dieser Zeile exportiert das Paket `<module>.*`, auch dort importierte Module wie z.B. json :(
   - `import .<module>` hat nicht geklappt
 
+## irgendwelche Files
+
+cf. https://packaging.python.org/guides/using-manifest-in/
+
